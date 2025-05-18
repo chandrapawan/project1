@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width"> <!-- Bug: Missing initial-scale=1.0 -->
     <title>ShopEasy - Your One-Stop Online Store</title>
-    <link rel="stylesheet" href="style.css"> <!-- Bug: Incorrect file name (should be styles.css) -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/font-awesome.min.css"> <!-- Bug: Wrong file name for Font Awesome -->
+    <link rel="stylesheet" href="styles.css"> <!-- Bug: Incorrect file name (should be styles.css) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/fontawesome.min.css"> <!-- Bug: Wrong file name for Font Awesome -->
 </head>
 <body>
     <header>
         <div class="logo">
-            <h1>ShopEasy<h1> <!-- Bug: Missing closing slash on <h1> -->
+            <h1>ShopEasy</h1> <!-- Bug: Missing closing slash on <h1> -->
         </div>
         <nav>
             <ul>
